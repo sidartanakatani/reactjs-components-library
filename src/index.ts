@@ -1,3 +1,3 @@
-import { Button, DataTable, Input, RadioGroup, RadioItem, StepsIndicator, Select } from './components'
+import { Button } from './components'
 
-export { Button, DataTable, Input, RadioGroup, RadioItem, StepsIndicator, Select }
+export { Button }
