@@ -20,7 +20,7 @@ Run `yarn` first to install package dependencies.
 
 ### AWS Code Artifact Scripts
 
-Add this 2 scripts in the package.json and configure accordingly
+Add these scripts in the package.json and configure the respository-name, domain and domain-owner accordingly
 
--   "prepare": "npm run co:login",
--   "co:login": "aws codeartifact login --tool npm --repository repository-name --domain domain --domain-owner domain-owner"
+-   `"prepare": "npm run co:login"`
+-   `"co:login": "aws codeartifact login --tool npm --repository repository-name --domain domain --domain-owner domain-owner"`
