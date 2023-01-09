@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
--   [Node.js (Must be v16)](https://nodejs.org)
+-   [Node.js](https://nodejs.org)
 -   [Yarn](https://classic.yarnpkg.com/)
 -   [AWS CLI](https://aws.amazon.com/pt/cli/)
 
